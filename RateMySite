@@ -1,4 +1,0 @@
-def main():
-    updater = Updater("478219449:AAGsEUulnylbTRnKlbFDP8VqosdfGneCako")
-    updater.start_polling()
-    updater.idle()

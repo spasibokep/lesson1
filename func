@@ -1,7 +1,0 @@
-
-def get_summ (word1 + wodr2)
-word1 = 'hello'
-word2 = 'world'
-return str.upper('hello') + str.upper('world')
-print(get_summ)
-
